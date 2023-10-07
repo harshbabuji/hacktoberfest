@@ -10,6 +10,13 @@
 - Bio: I am a Computer Science Engineering student from Maulana Abul Kalam Azad University of Technology,West Bengal and I am a full Stack developer
 - GitHub: [07tAnYa](https://github.com/07tAnYa)
 
+#### Name: [Devanshu Masodker](https://github.com/Devanshumasodker/)
+
+- Place: Bhopal piplani ,mp India
+- Bio: I am a Computer Science Engineering student from Technocrats institute of Technology,Madhya pradesh and I am a Front end developer
+- GitHub: [07tAnYa](https://github.com/07tAnYa)
+
+
 #### Name: [Anubhav Kulshreshtha](https://github.com/anubhav1450)
 
 - Place: Shikohabad,Uttar Pradesh, India
